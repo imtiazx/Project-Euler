@@ -8,4 +8,3 @@ def sum_of_multiples(upper_limit):
 	return sum
 	
 print(sum_of_multiples(1000))
-			
